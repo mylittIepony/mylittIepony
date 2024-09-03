@@ -1,0 +1,6 @@
+- 👋 Hi, I’m pony
+- 👀 I’m interested in videogames
+- 🌱 I’m currently learning C#
+- 📫 How to reach me carrier pigeon
+- 😄 Pronouns: she / her
+- ⚡ Fun fact: ponies
