@@ -1,6 +1,6 @@
 - 👋 Hi, I’m pony
 - 👀 I’m interested in videogames
 - 🌱 I’m currently learning C#
-- 📫 How to reach me carrier pigeon
+- 📫 How to reach me: look up at the sky and my carrier pigeon will take a letter
 - 😄 Pronouns: she / her
 - ⚡ Fun fact: ponies
